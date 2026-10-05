@@ -7,7 +7,7 @@ import vlc
 import time
 import requests
 
-SPECIFIED_FILE = "/home/radio/test5.txt"
+SPECIFIED_FILE = "~/test5.txt"
 with open(SPECIFIED_FILE, "r") as file:
     line_count = len(file.readlines())
 
