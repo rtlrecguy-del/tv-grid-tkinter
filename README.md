@@ -1,6 +1,5 @@
 Checkbox1.sh is a script that allows you to select from a playlist 2,4,6 or 8 urls and creates a script to play them in a grid
-in said amount of quadrants. <br>
-That script can be run to play a grid in that combination.  It can run on standard linux or termux depending on the power of the computer.    
+in said amount of quadrants. <br>  
 <br>
 <br>
 To mute and unmute each window:
