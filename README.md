@@ -8,9 +8,7 @@ To mute and unmute each window:
    To mute all windows click right three times.
    To exit click left three times
 To exit checkbox1.sh script press key 1.
-
-Should work on most operating systems that can run python-tkinter including termux.
-
-
+<br>
+Should work on most operating systems that can run python-tkinter including termux.<br>
 Some of the requirements are python-tkinter, python-requests and python-pip.
 pip intall python-vlc
