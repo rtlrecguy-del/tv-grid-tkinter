@@ -4,7 +4,7 @@ in said amount of quadrants. <br>
 <br>
 To mute and unmute each window:
    Right quadrant use directional or arrow keys on remote, keyboard controller.   Up/Down/Left/Right
-   Second quadrant us same but use double clicks.
+   Second quadrant is same but uses double clicks.
    To mute all windows click right three times.
    To exit click left three times
 To exit checkbox1.sh script press key 1.
