@@ -3,7 +3,7 @@ in said amount of quadrants. <br>
 <br>
 <br>
 To mute and unmute each window:
-   Right quadrant use directional or arrow keys on remote, keyboard controller.   Up/Down/Left/Right
+   Right quadrant uses directional or arrow keys on remote, keyboard or controller.   Up/Down/Left/Right
    Second quadrant is same but uses double clicks.
    To mute all windows click right three times.
    To exit click left three times
