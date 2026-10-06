@@ -14,8 +14,8 @@ pip install python-vlc
 apt install vlc or pkg add vlc.<br>
 git clone https://github.com/rtlrecguy-del/tv-grid-tkinter.git <br>
 cd tv-grid-tkinter <br>
-chmod +x checkbox1.sh
-./checkbox.sh
+chmod +x checkbox1.sh<br>
+./checkbox.sh<br>
 after running checkbox.sh run the created shell script in same directory that you named.
 
 
