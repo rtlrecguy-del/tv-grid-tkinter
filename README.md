@@ -15,6 +15,8 @@ apt install vlc or pkg add vlc.<br>
 git clone https://github.com/rtlrecguy-del/tv-grid-tkinter.git <br>
 cd tv-grid-tkinter <br>
 chmod +x checkbox1.sh
+./checkbox.sh
+after running checkbox.sh run the created shell script in same directory that you named.
 
 
 These scripts have only used pulseaudio not pipewire.
