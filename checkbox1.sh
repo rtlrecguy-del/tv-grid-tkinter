@@ -145,11 +145,11 @@ class M3U8_CheckboxApp:
             print(f"\n--- Written to {os.path.basename(output_file)} ---")
             print("\n".join(self.selected_urls))
             filename_only = Path(output_file).stem
-            path2 = f"~/{filename_only}.sh"
+            path2 = f"{filename_only}.sh"
          
             
-            shutil.copyfile("~/tv-tkinter3.sh", path2)
-            search_text = "~/tv-tkinter3.sh"
+            shutil.copyfile("tv-tkinter3.sh", path2)
+            search_text = "tv-tkinter3.sh"
             search_text1 = "test5"
             with open(path2, "r", encoding="utf-8") as file:
                 data1 = file.read()
