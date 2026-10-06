@@ -12,7 +12,7 @@ To exit checkbox1.sh script press key 1.
 Should work on most operating systems that can run python-tkinter including termux.<br>
 Some of the requirements are python-tkinter, python-requests and python-pip.
 pip install python-vlc
-apt install vlc or pkg add vlc.
-git clone https://github.com/rtlrecguy-del/tv-grid-tkinter.git
-cd tv-grid-tkinter
+apt install vlc or pkg add vlc.<br>
+git clone https://github.com/rtlrecguy-del/tv-grid-tkinter.git <br>
+cd tv-grid-tkinter <br>
 chmod +x checkbox1.sh
