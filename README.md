@@ -13,3 +13,6 @@ Should work on most operating systems that can run python-tkinter including term
 Some of the requirements are python-tkinter, python-requests and python-pip.
 pip install python-vlc
 apt install vlc or pkg add vlc.
+git clone https://github.com/rtlrecguy-del/tv-grid-tkinter.git
+cd tv-grid-tkinter
+chmod +x checkbox1.sh
