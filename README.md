@@ -11,4 +11,4 @@ To exit checkbox1.sh script press key 1.
 <br>
 Should work on most operating systems that can run python-tkinter including termux.<br>
 Some of the requirements are python-tkinter, python-requests and python-pip.
-pip intall python-vlc
+pip install python-vlc
