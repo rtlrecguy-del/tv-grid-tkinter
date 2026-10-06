@@ -16,7 +16,8 @@ git clone https://github.com/rtlrecguy-del/tv-grid-tkinter.git <br>
 cd tv-grid-tkinter <br>
 chmod +x checkbox1.sh<br>
 ./checkbox.sh<br>
-after running checkbox.sh run the created shell script in same directory that you named.
+After new script has been written press 1.<br>
+After running checkbox.sh run the created shell script in same directory that you named.
 
 
 These scripts have only used pulseaudio not pipewire.
