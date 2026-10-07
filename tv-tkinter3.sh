@@ -33,7 +33,7 @@ class VLCQuadrantsApp:
         vlc_options = [
            "--adaptive-logic=lowest",     # Forces the adaptive streaming module to choose the lowest bitrate
            "--preferred-resolution=480",  # Hints to preferred low resolution (e.g., 240p, 360p)
-           "--network-caching=1000"       # Optional: Adjust network cache in milliseconds
+           "--loop"       # Optional: Adjust network cache in milliseconds
         ]        
         self.vlc_instance = vlc.Instance(vlc_options)
 
