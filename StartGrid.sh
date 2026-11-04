@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start in the current directory or a user-provided argument
-START_DIR="${1:-$HOME/m3ufiles}"
+START_DIR="${1:-$PWD/m3ufiles}"
 
 while true; do
     # Open dialog file selector
