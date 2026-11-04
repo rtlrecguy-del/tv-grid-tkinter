@@ -33,6 +33,6 @@ done
 clear
 
     echo "You selected: $SELECTED_FILE"
-    xinit /home/radio/mpvgrid.sh $SELECTED_FILE -- :0  > /dev/null 2>&1 &
+    xinit ./mpvgrid.sh $SELECTED_FILE -- :0  > /dev/null 2>&1 &
    
 
