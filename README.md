@@ -9,3 +9,5 @@ Commands to also run are pip install request python-mpv and pip install -U yt-dl
 Use pulseaudio only.  Don't use pipewire.     
 
 On system like debian you may have to edit configuration to give non root user access to tty and add user to group tty.
+
+You may have to make some directories in you home directory.  Specifically ~/playlists and ~/m3ufiles or change code in scripts to your chosen directory.
