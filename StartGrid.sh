@@ -34,6 +34,5 @@ clear
 
     echo "You selected: $SELECTED_FILE"
     xinit /home/radio/mpvgrid.sh $SELECTED_FILE -- :0  > /dev/null 2>&1 &
-    sleep 5 && DISPLAY=:0 xrandr -s 1920x1080 
-    DISPLAY=:0 xbindkeys &
+   
 
