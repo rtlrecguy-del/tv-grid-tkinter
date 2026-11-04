@@ -8,4 +8,4 @@ On pip install at least pip install requests, python-mpv and pip install -U yt-d
 
 Use pulseaudio only.  Don't use pipewire.     
 
-On system like debian you may have to edit configuration to give use access to console.
+On system like debian you may have to edit configuration to give regular use access to tty and add user to group tty.
