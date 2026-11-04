@@ -2,6 +2,10 @@ Selector file allow you to filter playlist by channel groups and create a new pl
 
 
 The packages that are at least needed may have different names depending on operating system you are using but are:
-libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio.
+libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio xinit.
 
 On pip install at least pip install requests, python-mpv and pip install -U yt-dlp.
+
+Use pulseaudio only.  Don't use pipewire.     
+
+On system like debian you may have to edit configuration to give use access to console.
