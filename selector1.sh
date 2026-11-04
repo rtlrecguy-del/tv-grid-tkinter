@@ -40,7 +40,7 @@ done < "$INPUT_FILE"
 
 echo "Done! Saved $channels_found matching channels to '$OUTPUT_FILE'."
 INPUT_FILE=$OUTPUT_FILE
-OUTPUT_FILE=$(dialog --stdout --title "OUTPUT File Name Required" --inputbox "Please enter your text:" 8 40 "/home/radio/m3ufiles/")
+OUTPUT_FILE=$(dialog --stdout --title "OUTPUT File Name Required" --inputbox "Please enter your text:" 8 40 "$PWD/m3ufiles/")
 RESPONSE=$?
 
 if [ $RESPONSE -eq 0 ]; then
