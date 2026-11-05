@@ -8,6 +8,6 @@ Commands to also run are pip install requests python-mpv and pip install -U yt-d
 
 Use pulseaudio only.  Don't use pipewire.     
 
-On system like debian you may have to edit configuration to give non root user access to tty and add user to group tty.
+On system like debian you may have to edit configuration to give non root user access to tty if not using window manager with login manager.  You may have to add user to group tty with something like usermod -aG tty $USER if you get error saying permssion to tty1 denied.
 
 
