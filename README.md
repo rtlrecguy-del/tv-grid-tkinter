@@ -11,5 +11,5 @@ Use pulseaudio only.  Don't use pipewire.
 On system like debian you may have to edit configuration to give non root user access to tty if not using window manager with login manager.  You may have to add user to group tty with something like usermod -aG tty $USER if you get error saying permission access to tty1 denied.
 
 If you want to run this on system already setup with window manager run mpvgrid.sh and pass name of your m3u8 file as a parameter.
-
+This should also work well on termux by changing mpv to use vo=x11 and installing prerequisites but install termux-x11-nightly and install mpv-x.
 
