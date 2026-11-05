@@ -1,4 +1,4 @@
-Selector file allow you to filter playlist by channel groups and create a new playlist that can be selected when you run StartGrid.sh.  It can do 4,6 or 9 windows.   You use 1-9 keys to mute and unmute the windows.  The script highlights the player that is unmuted.  It handles video as well as just radio channels without video.  The script expects xorg on system as it is programmed to just use xinit for very low overhead but that can be changed.   It isn't setup to use a window manager.
+Selector file allow you to filter playlist by channel groups and create a new playlist that can be selected when you run StartGrid.sh.  It can do 4,6 or 9 windows.   You use 1-9 keys to mute and unmute the windows.  The script highlights the player that is unmuted.  It handles video as well radio channels without video.  The script expects xorg on system as it is programmed to just use xinit for very low overhead but that can be changed.   It isn't setup to use a window manager.
 
 
 The packages that are at least needed may have different names depending on operating system you are using but are:
