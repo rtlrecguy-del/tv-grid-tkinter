@@ -4,7 +4,7 @@ selector1.sh script allows you to filter playlist by channel groups and create a
 The packages that are at least needed may have different names depending on operating system you are using but are:
 libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio xinit.
 
-Commands to also run are pip install request python-mpv and pip install -U yt-dlp.
+Commands to also run are pip install requests python-mpv and pip install -U yt-dlp.
 
 Use pulseaudio only.  Don't use pipewire.     
 
