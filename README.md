@@ -2,7 +2,7 @@ selector1.sh script allows you to filter playlist files(.m3u8 files)  by channel
 
 
 The packages that are at least needed may have different names depending on operating system you are using but are:
-libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio xinit.
+libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio and xinit.
 
 Commands to also run are pip install requests python-mpv and pip install -U yt-dlp.
 
