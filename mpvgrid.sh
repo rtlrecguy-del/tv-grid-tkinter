@@ -104,7 +104,7 @@ class VideoGridApp:
             # On Linux, log-file helps debug potential X11 embedding issues
             player = mpv.MPV(
                 wid=str(wid),
-                vo="gpu",
+                vo="x11",
                 ytdl=True,  # Enable youtube-dl/yt-dlp integration for streaming links
                 ytdl_format="worstvideo+worstaudio/worst",
                 input_default_bindings=False,
