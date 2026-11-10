@@ -5,6 +5,8 @@ libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio
 
 Commands to also run are pip install requests python-mpv and pip install -U yt-dlp.
 
-Use pulseaudio only.  Don't use pipewire.     
+Use pulseaudio only.  Don't use pipewire. 
+
+I use tinywm, rofi and dmenu for my setup.   I would avoid tiling window managers when using it.
 
 
