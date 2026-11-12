@@ -5,6 +5,6 @@ libmpv-dev, mpv, python3-tkinter, python3-pip, xorg, dialog, pulseaudio
 
 Commands to also run are pip install requests python-mpv and pip install -U yt-dlp.
 
-I use tinywm, rofi and dmenu for my setup.   I would avoid tiling window managers when using it.
+I use tinywm, rofi and dmenu for my setup. I have also had it working with gnome.  I would avoid tiling window managers when using it.
 
 
